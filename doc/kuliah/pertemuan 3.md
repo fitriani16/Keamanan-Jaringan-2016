@@ -1,0 +1,3 @@
+Anatomy Hacking is a step systematically arranged which can be done for the hacking process that can be used in conducting hacker attacks with the aim that compromise the network.
+Therefore in this anatomy will discuss steps - steps in hacking anatomy that facilitates the protection of an effective and efficient organization.
+, Many ways are done in every step in the Anatomy of Hacking, which is very varied so it would be quite difficult to overcome. Therefore, the Network Administrator is required to fast and responsive in the face of threats Hackers can attack at any time and in various ways or techniques vary.
